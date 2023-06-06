@@ -1,14 +1,20 @@
+
+https://github.com/demircisena/React-Weather-App/assets/106083090/2fde3d0e-c318-4888-9d98-4252fadf26d2
+
+
 <br>
 If you want to try project
 <br>
 <br>
 APİKEY: 9fb6000f298324eae13be0d8e9ae6b95
 <br>
+
+
 ## Beginning
 
 Clone this repository on your local machine.
 <br>
-`https://github.com/demircisena/mayzor-react-native.git`
+`https://github.com/demircisena/React-Weather-App.git`
 
 
 <br>
